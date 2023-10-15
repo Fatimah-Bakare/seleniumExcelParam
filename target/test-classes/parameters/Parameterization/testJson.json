@@ -1,0 +1,26 @@
+{
+  "TestCase1": {
+    "testStep1": {
+      "email": "john@gmail.com",
+      "name": "john",
+      "age": 31
+    },
+    "testStep2": {
+      "email": "John@gmail.com",
+      "name": "john",
+      "age": 35
+    }
+  },
+  "TestCase2": {
+    "testStep1": {
+      "email": "jane@gmail.com",
+      "name": "jane",
+      "age": 27
+    },
+    "testStep2": {
+      "email": "jane@gmail.com",
+      "name": "jane",
+      "age": 35
+    }
+  }
+}
